@@ -5,7 +5,6 @@ location of the definition of the symbol referred to.
 
 Known limitations:
 
-
 - it does not understand about "." imports
 - it does not deal well with definitions in tests.
 
